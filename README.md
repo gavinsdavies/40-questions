@@ -1,6 +1,8 @@
 ## About
 
-This repo maintains revisons and translations to the list of 40 questions I ask myself each year and each decade.
+Originally forked from @kepano's [40 questions](https://github.com/kepano/40-questions) repo.
+
+This repo maintains revisions and translations to the list of 40 questions I ask myself each year and each decade.
 
 See related blog posts:
 
@@ -9,7 +11,7 @@ See related blog posts:
 
 ## Translations
 
-If you'd like to help translate the questions, you can submit your translation via pull request. Place the translated files into a folder named using the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter language code. See the [/translations](/translations) folder.
+If you'd like to help translate the questions, you can submit your translation via pull request. Place the translated files into a folder named using the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two-letter language code. See the [/translations](/translations) folder.
 
 | ISO 639-1 | Language              | Year                             | Decade                             |
 | :-------- | :-------------------- | -------------------------------- | ---------------------------------- |
