@@ -1,6 +1,6 @@
 ## About
 
-Originally forked from @kepano's [40 questions](https://github.com/kepano/40-questions) repo.
+Originally forked from Stephan Ango's (@kepano) [40 questions](https://github.com/kepano/40-questions) repo.
 
 This repo maintains revisions and translations to the list of 40 questions I ask myself each year and each decade.
 
